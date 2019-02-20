@@ -1,4 +1,4 @@
 x = 16
 y = 12
-answer = x+y
+answer = x-y
 print(answer)
